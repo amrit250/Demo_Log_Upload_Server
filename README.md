@@ -1,2 +1,2 @@
-# Demo_Log_Upload_Server
-For Testing uses
+# Airtel_Log_Upload
+This project for testing
